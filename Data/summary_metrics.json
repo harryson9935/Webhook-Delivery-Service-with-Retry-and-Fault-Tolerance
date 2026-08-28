@@ -1,0 +1,14 @@
+{
+  "total_deliveries": 480,
+  "overall_success_rate_pct": 92.71,
+  "dead_letter_rate_pct": 7.29,
+  "avg_attempts_for_success": 1.69,
+  "median_success_latency_ms": 1.93,
+  "by_partner_success_rate_pct": {
+    "flaky-partner": 96.67,
+    "mostly-stable-partner": 100.0,
+    "reliable-partner": 100.0,
+    "very-flaky-partner": 74.17
+  },
+  "total_attempts_made": 963
+}
